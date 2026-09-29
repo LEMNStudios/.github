@@ -1,7 +1,9 @@
 
-<h1 align="center"><abbr title="Learning Everything, Maintaining Nothing Studios">lemn studios</abbr></h1>
+<h1 align="center">lemn studios</h1>
+<p align="center"><sub> a.k.a learning everything, maintaining nothing studios </sub></p>
 
-<h3 align="center" style="letter-spacing: 50px;" >undefined by nature</h3>
 <hr>
 
-we exist. this is our github. if you're not one of us, you wont see 3/4ths of the repos here.
+we exist. this is our github.
+
+if you're not a staff member, you wont see 3/4ths of the repos here.
