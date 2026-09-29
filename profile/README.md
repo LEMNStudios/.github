@@ -1,5 +1,5 @@
 
-<h1 align="center">lemn studios</h1>
+<h1 align="center" style="font-size: 52px">LEMN Studios</h1>
 <p align="center"><sub> a.k.a learning everything, maintaining nothing studios </sub></p>
 
 <hr>
