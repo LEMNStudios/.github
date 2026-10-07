@@ -6,4 +6,4 @@
 
 we exist. this is our github.
 
-if you're not a staff member, you wont see 3/4ths of the repos here.
+if you're not a staff member, you wont see most of the repos here.
