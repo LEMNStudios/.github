@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/LEMNStudios/.github/refs/heads/main/profile/lemn_studios_logo_white.svg" alt="LEMN Studios" width="360" />
+<img src="https://lemn.uk/_image/w_1920,q_80/assets/LEMN_Studios_Short(Small)_fSx_bmRGK3tI_uk6UtIr2.png" alt="LEMN Studios" width="360" />
 
 <br/>
 <br/>
