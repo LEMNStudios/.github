@@ -19,14 +19,6 @@ LEMN Studios is an independent creative studio based in **Scotland**. <br/>
 We make things that we like and are passionate about: music, video games, art, etc.<br/>
 And, for those concerned, anything we make/publish under this brand is **100% generative ai free**.
 
-## what_we_own
-
-| | |
-| :-- | :-- |
-| **LEMN Studios** | The parent studio for all of our work. |
-| **Eskwyld Games** | Where we design, make and publish video games! |
-| **Mossolith Recordings** | Our lil' record label :p |
-
 ## find_us_here
 
 Website:<br/>
